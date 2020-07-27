@@ -1,6 +1,6 @@
 # SukoyaHimekuriApp
 
-その日の日付に応じて[健屋花那 ひめくりめざましボイス](https://booth.pm/ja/items/2182803) を再生するアプリ. 
+その日の日付に応じて[健屋花那 ひめくりめざましボイス](https://booth.pm/ja/items/2168427) を再生するアプリ. 
 
 この時ボイスを再生する前に電話の呼び出し音を再生することで「モーニングコール」されている雰囲気を実現.
 
@@ -98,4 +98,4 @@ enter
 
 * [YouTube](https://www.youtube.com/channel/UC8C1LLhBhf_E2IBPLSDJXlQ)
 * [Twitter](https://twitter.com/sukosuko_sukoya)
-* [ボイス](https://booth.pm/ja/items/2182803)
+* [ボイス](https://booth.pm/ja/items/2168427)
